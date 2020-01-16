@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Travel/static/css/main.46477cfa.chunk.css",
+    "main.js": "/Travel/static/js/main.30d9c63e.chunk.js",
+    "main.js.map": "/Travel/static/js/main.30d9c63e.chunk.js.map",
+    "runtime-main.js": "/Travel/static/js/runtime-main.399e8b6e.js",
+    "runtime-main.js.map": "/Travel/static/js/runtime-main.399e8b6e.js.map",
+    "static/js/2.3b1ccc2d.chunk.js": "/Travel/static/js/2.3b1ccc2d.chunk.js",
+    "static/js/2.3b1ccc2d.chunk.js.map": "/Travel/static/js/2.3b1ccc2d.chunk.js.map",
+    "index.html": "/Travel/index.html",
+    "precache-manifest.e21ed86fc144a70cfa0b31f79fbafb78.js": "/Travel/precache-manifest.e21ed86fc144a70cfa0b31f79fbafb78.js",
+    "service-worker.js": "/Travel/service-worker.js",
+    "static/css/main.46477cfa.chunk.css.map": "/Travel/static/css/main.46477cfa.chunk.css.map",
+    "static/js/2.3b1ccc2d.chunk.js.LICENSE": "/Travel/static/js/2.3b1ccc2d.chunk.js.LICENSE",
+    "static/media/Home.css": "/Travel/static/media/camping2.c279cfff.jpg",
+    "static/media/canyon.jpg": "/Travel/static/media/canyon.0ab96f3e.jpg",
+    "static/media/cristo.jpg": "/Travel/static/media/cristo.02e5e8bc.jpg",
+    "static/media/lisboa.jpg": "/Travel/static/media/lisboa.d3afb507.jpg",
+    "static/media/safari.jpg": "/Travel/static/media/safari.74a73798.jpg",
+    "static/media/tokyo.jpg": "/Travel/static/media/tokyo.597a3487.jpg",
+    "static/media/torreEiffel.jpg": "/Travel/static/media/torreEiffel.814f7261.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.399e8b6e.js",
+    "static/js/2.3b1ccc2d.chunk.js",
+    "static/css/main.46477cfa.chunk.css",
+    "static/js/main.30d9c63e.chunk.js"
+  ]
+}
